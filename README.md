@@ -10,8 +10,8 @@
 	
 #### DB: NBG
 See **`hibernate.cfg.xml`**
->Credentials for management : 
->>See **`filter_values_development.properties` :** `fv.jdbc.username` , `fv.jdbc.password` , `fv.db.name`
+Credentials for management : 
+>See **`filter_values_development.properties` :** `fv.jdbc.username` , `fv.jdbc.password` , `fv.db.name`
 
 #### solr: NBG
 Credentials for management : 
