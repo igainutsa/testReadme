@@ -2,7 +2,7 @@
 
 ### Servers:
 
-##### tomcat7x : Local Development
+##### **tomcat7x : Local Development**
 
 [http://localhost:8080](http://localhost:8080)
 
