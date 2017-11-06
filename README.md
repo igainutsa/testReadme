@@ -9,24 +9,27 @@
 http://localhost:8080
 
 
-==============================
-Rest API documentation: NBG
-==============================
+###### ======================
+#### Rest API documentation: NBG
+###### ======================
+
 http://localhost:8080/NBG/swagger
 
 
-==============================
-DB: NBG
-==============================
+###### ======================
+#### DB: NBG
+###### ======================
+
 See hibernate.cfg.xml
 
 Credentials for management : 
 see filter_values_development.properties : fv.jdbc.username, fv.jdbc.password, fv.db.name
 
 
-==============================
-solr: NBG
-==============================
+###### ======================
+#### solr: NBG
+###### ======================
+
 Credentials for management : 
 see filter_values_production.properties : fv.jdbc.username, fv.jdbc.password, fv.db.name
 
