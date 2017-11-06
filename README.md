@@ -1,20 +1,16 @@
 # project NBG
 
-### Servers:
+## Servers:
 
-#### tomcat7x : Local Development
-
+### tomcat7x : Local Development
 	http://localhost:8080
 
 
 ### Rest API documentation: NBG
-
 	http://localhost:8080/NBG/swagger
 
 
 ### DB: NBG
-
-
 See hibernate.cfg.xml
 
 Credentials for management : 
@@ -22,12 +18,8 @@ see filter_values_development.properties : fv.jdbc.username, fv.jdbc.password, f
 
 
 ### solr: NBG
-
 Credentials for management : 
 see filter_values_production.properties : fv.jdbc.username, fv.jdbc.password, fv.db.name
-
-
- 
 
 
 maven build - production:
