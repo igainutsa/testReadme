@@ -24,7 +24,11 @@ Credentials for management :
 
 	
 ## 	install project in local:
-1) sdfsdfsdf
+***
+1. clone project in computer
+2. downloads and install program Workbench [link](https://dev.mysql.com/downloads/workbench/)
+3. sdfsdf   
+
 
 maven build - production:
 	
