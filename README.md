@@ -1,12 +1,13 @@
 # project NBG ![alt text][logo]
 
 ## Servers:
-
+***
 #### tomcat7x : Local Development
 	http://localhost:8080
 
 
 ## 	Management:
+***
 	
 #### DB: NBG
 See **`hibernate.cfg.xml`**
@@ -21,8 +22,9 @@ Credentials for management :
 #### Rest API documentation: NBG
 	http://localhost:8080/NBG/swagger
 
-
-
+	
+## 	install project in local:
+1) sdfsdfsdf
 
 maven build - production:
 	
