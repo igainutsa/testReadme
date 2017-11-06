@@ -15,8 +15,7 @@ See **`hibernate.cfg.xml`**
 
 #### solr: NBG
 Credentials for management : 
-
-See **`filter_values_production.properties`** : `fv.jdbc.username` , `fv.jdbc.password` , `fv.db.name`
+>See **`filter_values_production.properties`** : `fv.jdbc.username` , `fv.jdbc.password` , `fv.db.name`
 
 #### Rest API documentation: NBG
 	http://localhost:8080/NBG/swagger
