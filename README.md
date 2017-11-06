@@ -1,5 +1,4 @@
-# project NBG 
-![alt text][logo]
+# project NBG ![alt text][logo]
 
 ## Servers:
 
