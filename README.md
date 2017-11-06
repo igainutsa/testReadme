@@ -28,7 +28,9 @@ Credentials for management :
 1. clone project in computer
 2. downloads and install program Workbench [link](https://dev.mysql.com/downloads/workbench/)
 3. downloads snd install SQL [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)
-..* create table from name `fv.db.name`
+
+* create table from name `fv.db.name`
+* rewrite your login password in the file **`filter_values_development.properties`** to those indicated in Workbench
 
 
 maven build - production:
