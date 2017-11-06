@@ -27,7 +27,8 @@ Credentials for management :
 ***
 1. clone project in computer
 2. downloads and install program Workbench [link](https://dev.mysql.com/downloads/workbench/)
-3. sdfsdf   
+3. downloads snd install SQL [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)
+..* create table from name `fv.db.name`
 
 
 maven build - production:
