@@ -1,4 +1,5 @@
-# project NBG
+# project NBG 
+![alt text][logo]
 
 ## Servers:
 
@@ -30,6 +31,6 @@ maven build - production:
 
 1)In Eclipse set to jdk1.7.0_79
 
-![alt text][logo]
 
-[logo]: https://github.com/favicon.ico "Logo Title Text 2"
+
+[logo]: https://github.com/ivangainutsa/testReadme/blob/master/favicon.ico "Logo"
