@@ -29,3 +29,7 @@ maven build - production:
 	clean compile war:war -DbuildTarget=production
 
 1)In Eclipse set to jdk1.7.0_79
+
+![alt text][logo]
+
+[logo]: https://github.com/favicon.ico "Logo Title Text 2"
