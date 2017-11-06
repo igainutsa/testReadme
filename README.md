@@ -4,14 +4,14 @@
 
 ##### **tomcat7x : Local Development**
 
-[http://localhost:8080](http://localhost:8080)
+	[http://localhost:8080](http://localhost:8080)
 
 
 ###### ======================
 #### Rest API documentation: NBG
 ###### ======================
 
-http://localhost:8080/NBG/swagger
+	http://localhost:8080/NBG/swagger
 
 
 ###### ======================
