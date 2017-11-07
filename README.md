@@ -58,7 +58,7 @@ Credentials for management :
 4. restart Eclipse 
 5. `Run As` -> `Maven clean` the project
 6. `Maven` -> `Update project...` 
-7. finish
+8. finish
 
 ## 	How to resolve Libraries problem:
 *** 
