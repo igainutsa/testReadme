@@ -33,8 +33,18 @@ Credentials for management :
 4. downloads solr-4.10.4 [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
  a. unzip the program solr-4.10.4  
  b. run the file `start.bat` **`"С:\solr-4.10.4\example\start.bat"`**  
-5. lsdfjk sdklfjl
- 
+5. ???? ???? ????
+6. finish
+
+## 	run project in local:
+*** 
+1. open project in Eclipse
+2. remove javascript errors from the project
+3. run solr `start.bat` **`"С:\solr-4.10.4\example\start.bat"`** but don't close the console
+4. run as this file `NBG_DEV.launch` 
+5. url project http://localhost:8080/NBG/mainMenu
+  
+
 
 maven build - production:
 	
