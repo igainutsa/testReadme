@@ -32,8 +32,8 @@ Credentials for management :
  b. rewrite your login and password in the file **`filter_values_development.properties`** to those indicated in Workbench  
 4. downloads solr-4.10.4 [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
  a. unzip the program solr-4.10.4  
- b. run the file start.bat "???:\solr-4.10.4\example\start.bat"  
-5. sdlfjlkj
+ b. run the file `start.bat` **`"С:\solr-4.10.4\example\start.bat"`**  
+5. lsdfjk sdklfjl
  
 
 maven build - production:
