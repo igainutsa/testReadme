@@ -50,7 +50,6 @@ Credentials for management :
  c. type selected **"Basic Auth"** you needy insert login and password take from DB in table `app_user`  
 7. finish
 
-
 ## 	move the project to Java 8:
 *** 
 1. downloads and install set to jdk1.8.0_152 in Eclipse [link](https://drive.google.com/file/d/1HayaRxt7HRTBpXlgQf0yzhbnEr2X1oC1/view)  
@@ -59,6 +58,7 @@ Credentials for management :
 4. restart Eclipse 
 5. `Run As` -> `Maven clean` the project
 6. `Maven` -> `Update project...` 
+7. finish
 
 ## 	How to resolve Libraries problem:
 *** 
