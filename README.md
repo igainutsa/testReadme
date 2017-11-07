@@ -30,7 +30,10 @@ Credentials for management :
 3. downloads and install SQL [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
  a. create new_schema from name `fv.db.name`  
  b. rewrite your login and password in the file **`filter_values_development.properties`** to those indicated in Workbench  
-4. sdlfkjlskdfjlskdf sdkfljklsdjf
+4. downloads solr-4.10.4 [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
+ a. unzip the program solr-4.10.4  
+ b. run the file start.bat "???:\solr-4.10.4\example\start.bat"  
+5. sdlfjlkj
  
 
 maven build - production:
