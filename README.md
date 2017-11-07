@@ -41,7 +41,7 @@ Credentials for management :
 1. open project in Eclipse
 2. remove javascript errors from the project
 3. run solr `start.bat` **`"С:\solr-4.10.4\example\start.bat"`** but don't close the console
-4. run as this file `NBG_DEV.launch` 
+4. `Run as` this file `NBG_DEV.launch` 
 5. url project http://localhost:8080/NBG/login  
  a. login and password take from DB in table `app_user` 
 6. to work with Rest API you needy install Postman [link](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=ru)  
