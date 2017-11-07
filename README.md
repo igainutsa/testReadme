@@ -33,7 +33,7 @@ Credentials for management :
 4. downloads solr-4.10.4 [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
  a. unzip the program solr-4.10.4  
  b. run the file `start.bat` **`"С:\solr-4.10.4\example\start.bat"`**  
-5. ???? ???? ????
+5. downloads and install set to jdk1.8.0_152 in Eclipse [link](https://drive.google.com/drive/folders/0B4alBSKMwoHLMFhvRnZGY3c1WGM)  
 6. finish
 
 ## 	run project in local:
