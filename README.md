@@ -51,6 +51,19 @@ Credentials for management :
 7. finish
 
 
+## 	move the project to Java 8:
+*** 
+1. step one
+2. step two 
+3. step three
+4. step four
+
+## 	How to resolve Libraries problem:
+*** 
+1. `Run As` -> `Maven clean` the project
+2. `Maven` -> `Update project...` 
+3. remove javascript errors from the project
+
   
 
 ## 	for now we are waiting for:
