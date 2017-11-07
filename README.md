@@ -47,10 +47,14 @@ Credentials for management :
 6. to work with Rest API you needy install Postman [link](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=ru)  
  a. run Postman  
  b. insert url http://localhost:8080/NBG/rest/????  
- c. type selected **"Basic Auth"** you needy insert login and password take from DB in table `app_user` 
+ c. type selected **"Basic Auth"** you needy insert login and password take from DB in table `app_user`  
+7. finish
+
+
   
 
-
+## 	for now we are waiting for:
+*** 
 maven build - production:
 	
 	clean compile war:war -DbuildTarget=production
